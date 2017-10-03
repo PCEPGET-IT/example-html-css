@@ -4,4 +4,4 @@ To compile all the example code into one place, so you can review what we've don
 ## Organization
 So far, every file is organized into a folder corresponding to the meeting day
 
-You can download the code by clicking the green button in the left middle-upper corner and "Download ZIP"
+You can download the code by clicking the green button in the right middle-upper corner and "Download ZIP"
